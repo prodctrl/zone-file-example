@@ -1,0 +1,8 @@
+{
+	"example.com": [
+		"ns1.example.net",
+		"ns2.example.net",
+		"ns3.example.net",
+		"ns4.example.net"
+	]
+}
